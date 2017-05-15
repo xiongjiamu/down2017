@@ -2765,3 +2765,44 @@
   width:113px;
   white-space:nowrap;
 }
+#u173_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:98px;
+  height:28px;
+  background:inherit;
+  background-color:rgba(209, 48, 48, 1);
+  border:none;
+  border-radius:3px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u173 {
+  border-width:0px;
+  position:absolute;
+  left:359px;
+  top:403px;
+  width:98px;
+  height:28px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u174 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:94px;
+  word-wrap:break-word;
+}
